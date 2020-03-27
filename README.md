@@ -1,4 +1,4 @@
-[profile-pic](profile.png)
+<img src="profile.png" width="200" height="200" />
 
 I am a Ph.D student under Prof. C V Jawahar and Prof. Vineeth N Balasubramanian. I belong to the Computer Vision and Information Technology Lab (CVIT) in IIIT Hyderabad. My research interests are in computer vision, machine learning and pattern recognition especially deep face algorithms. 
 
