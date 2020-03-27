@@ -13,5 +13,5 @@ I am a Ph.D student under Prof. C V Jawahar and Prof. Vineeth N Balasubramanian.
 <p><a href="twitter.com/annthrupthi" class="btn btn-info btn-block" target="_blank"><i class="icon-comment icon-white"></i> Follow me on Twitter</a></p>
 <p><a href="https://www.instagram.com/thrupthiann/" class="btn btn-warning btn-block" target="_blank"><i class="icon-picture icon-white"></i> Follow me on Instagram</a></p>
 <p><a href="https://www.linkedin.com/in/thrupthi-ann-john/?originalSubdomain=in" class="btn btn-primary btn-block" target="_blank"><i class="icon-briefcase icon-white"></i> Connect on LinkedIn</a></p>
-E-mail: thrupthi &ltdot> ann &ltat> research &ltdot> iiit &ltdot> ac &ltdot> in
+E-mail: thrupthi DOT ann AT research DOT iiit DOT ac DOT in
 
