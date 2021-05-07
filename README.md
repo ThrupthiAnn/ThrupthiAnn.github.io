@@ -8,6 +8,9 @@ I am a Ph.D student under Prof. C V Jawahar and Prof. Vineeth N Balasubramanian.
 * John, Thrupthi Ann, Balasubramanian, Vineeth N and Jawahar, CV <b>"Canonical Saliency Maps: Decoding Deep Face Models" </b>,| [Video](https://youtu.be/-36xg7KWrDE) | [PDF](https://arxiv.org/abs/2105.01386)
 * John, Thrupthi Ann, Dua, Isha, Balasubramanian, Vineeth N and Jawahar, CV. <b>"Low-Cost Transfer Learning of Face Tasks."</b> arXiv preprint arXiv:1901.02675 (2019).| [PDF](https://arxiv.org/abs/1901.02675)
 
+### Datasets
+DGAZE Dataset [Link](http://cvit.iiit.ac.in/research/projects/cvit-projects/dgaze)
+
 ### Fun projects
 * A snake game in Matlab! [Link](https://github.com/ThrupthiAnn/SnakeAI)
 
