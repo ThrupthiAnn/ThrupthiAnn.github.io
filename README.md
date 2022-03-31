@@ -12,10 +12,13 @@ I am a Ph.D student under Prof. C V Jawahar and Prof. Vineeth N Balasubramanian.
 ### Datasets
 DGAZE Dataset [Link](http://cvit.iiit.ac.in/research/projects/cvit-projects/dgaze)
 
+### Other activities 
+I am involved in the 'Foundations of Modern Machine Learning" by IHub-Data and IIIT Hyderabad. I was involved in syllabus creation, content creation, organisation, instruction and lab mentorship. [Link](https://ihub-data.iiit.ac.in/mml2021/)
+
 ### Fun projects
 * A snake game in Matlab! [Link](https://github.com/ThrupthiAnn/SnakeAI)
-* A p5js MCQ game to teach Telugu words! <iframe src="https://editor.p5js.org/ThrupthiAnn/full/7vWC9-uvU"></iframe>
-* A fractal tree logo in p5js! <iframe src="https://editor.p5js.org/ThrupthiAnn/full/N8na5BnjS"></iframe>
+* A fun p5js MCQ game to teach Telugu words! [Link](https://editor.p5js.org/ThrupthiAnn/full/7vWC9-uvU)
+* A fractal tree logo in p5js! [Link](https://editor.p5js.org/ThrupthiAnn/full/N8na5BnjS)
 
 ### Contact me
 <p><a href="twitter.com/annthrupthi" class="btn btn-info btn-block" target="_blank"><i class="icon-comment icon-white"></i> Follow me on Twitter</a></p>
