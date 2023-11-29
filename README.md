@@ -1,11 +1,10 @@
 <img src="profile.png" width="200" height="200" />
 
-I am a Ph.D student under Prof. C V Jawahar and Prof. Vineeth N Balasubramanian. I belong to the Computer Vision and Information Technology Lab (CVIT) in IIIT Hyderabad. My research interests are in computer vision, machine learning and pattern recognition especially deep face algorithms. Please find my CV: 
-
-<a href="Thrupthi_Ann_John_CV.pdf">CV</a>
+I am a Ph.D student under Prof. C V Jawahar and Prof. Vineeth N Balasubramanian. I belong to the Computer Vision and Information Technology Lab (CVIT) in IIIT Hyderabad. My research interests are in computer vision, machine learning and pattern recognition. My thesis is on the interpretation and analysis of deep face representations. Find my CV <a href="https://drive.google.com/file/d/19qRvadf-_1wB-p4zNAe5Ze1W8YZ6KjSB/view?usp=sharing">here.</a>.
 
 
 ### Research
+* John, Thrupthi Ann and Balasubramanian, Vineeth N and Jawahar, C. V. <b> "Explaining Deep Face Algorithms Through Visualization: A Survey," </b> in IEEE Transactions on Biometrics, Behavior, and Identity Science, 2023 | [PDF](https://arxiv.org/pdf/2309.14715.pdf)
 * John, Thrupthi Ann and Dua, Isha and Balasubramanian, Vineeth N and Jawahar, C. V. <b>"ETL: Efficient Transfer Learning for Face Tasks"</b>, VISAPP 2022 | [Video](https://www.youtube.com/watch?v=AfrV8P_IMGU&t=2s) | [PDF](http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2022/ETL_VISSAP.pdf)
 * Dua, Isha and John, Thrupthi Ann and Gupta, Riya and Jawahar, C. V. <b>"DGAZE: Driver Gaze Mapping on Road"</b>, IROS 2020 | [Project Page](http://cvit.iiit.ac.in/research/projects/cvit-projects/dgaze) | [Video](https://youtu.be/EoDkxqOhnoQ) | [PDF](http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/Projects/DGAZE/paper.pdf)
 * John, Thrupthi Ann, Balasubramanian, Vineeth N and Jawahar, CV <b>"Canonical Saliency Maps: Decoding Deep Face Models" </b>,| [Video](https://youtu.be/-36xg7KWrDE) | [PDF](https://arxiv.org/abs/2105.01386)
@@ -13,9 +12,14 @@ I am a Ph.D student under Prof. C V Jawahar and Prof. Vineeth N Balasubramanian.
 
 ### Datasets
 DGAZE Dataset [Link](http://cvit.iiit.ac.in/research/projects/cvit-projects/dgaze)
+DashGaze Dataset (currently working on)
 
-### Other activities 
-I am involved in the 'Foundations of Modern Machine Learning" by IHub-Data and IIIT Hyderabad. I was involved in syllabus creation, content creation, organisation, instruction and lab mentorship. [Link](https://ihub-data.iiit.ac.in/mml2021/)
+### Teaching activities
+*	Created and taught labs in the ‘Two-week Executive Training Program on AIML’ 2023 by iHub-Data
+*	Talk on ‘Explainable AI For Faces’ at Mercedes Benz RnD India
+*	Created and taught lab on Generative Adversarial Networks for CVIT Computer Vision Summer School 2017
+*	Created and taught lab on Generative Adversarial Networks for CVIT Machine Learning Summer School 2017 and 2018
+* Curriculum and labs for 'Foundations of Modern Machine Learning" by IHub-Data and IIIT Hyderabad. I was involved in syllabus creation, content creation, organisation, instruction and lab mentorship. [Link](https://ihub-data.iiit.ac.in/mml2021/)
 
 ### Fun projects
 * A snake game in Matlab! [Link](https://github.com/ThrupthiAnn/SnakeAI)
