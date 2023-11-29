@@ -11,8 +11,8 @@ I am a Ph.D student under Prof. C V Jawahar and Prof. Vineeth N Balasubramanian.
 * John, Thrupthi Ann, Dua, Isha, Balasubramanian, Vineeth N and Jawahar, CV. <b>"Low-Cost Transfer Learning of Face Tasks."</b> arXiv preprint arXiv:1901.02675 (2019).| [PDF](https://arxiv.org/abs/1901.02675)
 
 ### Datasets
-DGAZE Dataset [Link](http://cvit.iiit.ac.in/research/projects/cvit-projects/dgaze)
-DashGaze Dataset (currently working on)
+* DGAZE Dataset [Link](http://cvit.iiit.ac.in/research/projects/cvit-projects/dgaze)
+* DashGaze Dataset (currently working on)
 
 ### Teaching activities
 *	Created and taught labs in the ‘Two-week Executive Training Program on AIML’ 2023 by iHub-Data
