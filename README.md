@@ -2,6 +2,9 @@
 
 I am a Ph.D student under Prof. C V Jawahar and Prof. Vineeth N Balasubramanian. I belong to the Computer Vision and Information Technology Lab (CVIT) in IIIT Hyderabad. My research interests are in computer vision, machine learning and pattern recognition. My thesis is on the interpretation and analysis of deep face representations. Find my CV <a href="https://drive.google.com/file/d/1JwjkxTJKHVNSEyDRP2gBg07fWJo5rNug/view?usp=sharing">here.</a>.
 
+### Recent Activities
+I attended the ACM Academic Research and Careers for Students (ARCS) meeting held from 8-10 February 2024 at NISER, Bhubaneshwar. The meeting included invited talks, poster presentations and PhD Clinic (one-on-one conversations between professors and PhD students).  had one on one talks with Prof. Anirban Chakraborty of IISc Banglore and Prof. Ayon Chakraborty of IIT Madras.
+<img src="ARCS2024.jpg" width="400" />
 
 ### Research
 * John, Thrupthi Ann and Balasubramanian, Vineeth N and Jawahar, C. V. <b> "Explaining Deep Face Algorithms Through Visualization: A Survey," </b> in IEEE Transactions on Biometrics, Behavior, and Identity Science, 2023 | [PDF](https://arxiv.org/pdf/2309.14715.pdf)
