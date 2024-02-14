@@ -28,6 +28,7 @@ I attended the ACM Academic Research and Careers for Students (ARCS) meeting hel
 * A snake game in Matlab! [Link](https://github.com/ThrupthiAnn/SnakeAI)
 * A fun p5js MCQ game to teach Telugu words! [Link](https://editor.p5js.org/ThrupthiAnn/full/7vWC9-uvU)
 * A fractal tree logo in p5js! [Link](https://editor.p5js.org/ThrupthiAnn/full/N8na5BnjS)
+* Learn factors and multiples using this fun game! [Link](https://editor.p5js.org/ThrupthiAnn/full/tKwT6UkL5)
 
 ### Contact me
 <p><a href="twitter.com/annthrupthi" class="btn btn-info btn-block" target="_blank"><i class="icon-comment icon-white"></i> Follow me on Twitter</a></p>
