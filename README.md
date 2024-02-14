@@ -4,7 +4,7 @@ I am a Ph.D student under Prof. C V Jawahar and Prof. Vineeth N Balasubramanian.
 
 ### Recent Activities
 I attended the ACM Academic Research and Careers for Students (ARCS) meeting held from 8-10 February 2024 at NISER, Bhubaneshwar. The meeting included invited talks, poster presentations and PhD Clinic (one-on-one conversations between professors and PhD students).  had one on one talks with Prof. Anirban Chakraborty of IISc Banglore and Prof. Ayon Chakraborty of IIT Madras.
-<img src="ARCS2024.jpg" width="400" />
+<img src="ARCS2024.jpg" width="500" />
 
 ### Research
 * John, Thrupthi Ann and Balasubramanian, Vineeth N and Jawahar, C. V. <b> "Explaining Deep Face Algorithms Through Visualization: A Survey," </b> in IEEE Transactions on Biometrics, Behavior, and Identity Science, 2023 | [PDF](https://arxiv.org/pdf/2309.14715.pdf)
