@@ -1,6 +1,6 @@
 
 
-I am a Ph.D student under Prof. C V Jawahar and Prof. Vineeth N Balasubramanian. I belong to the Computer Vision and Information Technology Lab (CVIT) in IIIT Hyderabad. My research interests are in computer vision, machine learning and pattern recognition. My thesis is on the interpretation and analysis of deep face representations. Find my CV <a href="https://drive.google.com/file/d/1JwjkxTJKHVNSEyDRP2gBg07fWJo5rNug/view?usp=sharing">here.</a>.
+I am a Ph.D student under Prof. C V Jawahar and Prof. Vineeth N Balasubramanian. I belong to the Computer Vision and Information Technology Lab (CVIT) in IIIT Hyderabad. My research interests are in computer vision, machine learning and pattern recognition. My thesis is on the interpretation and analysis of deep face representations. Find my CV <a href="/assets/doc/CV.pdf" download="download">here.</a>.
 
 # Recent Activities
 * I submitted my thesis on 19 July 2024! I am now looking for research positions. <a href="/assets/doc/CV.pdf" download="download">(CV)</a>
