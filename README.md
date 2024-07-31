@@ -36,7 +36,7 @@ I am a Ph.D student under Prof. C V Jawahar and Prof. Vineeth N Balasubramanian.
 # Fun projects
 * A snake game in Matlab! [Link](https://github.com/ThrupthiAnn/SnakeAI)
 * A fun p5js MCQ game to teach Telugu words! [Link](https://editor.p5js.org/ThrupthiAnn/full/7vWC9-uvU)
-* A fractal tree logo in p5js! [Link](https://editor.p5js.org/ThrupthiAnn/full/N8na5BnjS) <img src="/assets/img/lightgif.gif" width="100" />
+* A fractal tree logo in p5js! [Link](https://editor.p5js.org/ThrupthiAnn/full/N8na5BnjS) <img src="/assets/img/lightgif.gif" width="300" />
 * Learn factors and multiples using this fun game! [Link](https://editor.p5js.org/ThrupthiAnn/full/tKwT6UkL5)
 
 # Contact me
