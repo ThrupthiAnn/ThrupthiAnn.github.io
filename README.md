@@ -3,6 +3,12 @@
 I am a Ph.D student under Prof. C V Jawahar and Prof. Vineeth N Balasubramanian. I belong to the Computer Vision and Information Technology Lab (CVIT) in IIIT Hyderabad. My research interests are in computer vision, machine learning and pattern recognition. My thesis is on the interpretation and analysis of deep face representations. Find my CV <a href="/assets/doc/CV.pdf" download="download">here.</a>.
 
 # Recent Activities
+* Our patent titled <b>System and Method for Generating Gaze Mapping Dataset and Predicting Gaze Point on Environment </b> was granted by the Indian Patent Office!
+<img src="/assets/img/patent_combined.png" width="500"> 
+
+* I successfully defended my thesis on 23 December 2024!
+<img src="/assets/img/thesisparty.jpg" width="500" />
+
 * I submitted my thesis on 19 July 2024! I am now looking for research positions. <a href="/assets/doc/CV.pdf" download="download">(CV)</a>
 
 * I attended the ACM Academic Research and Careers for Students (ARCS) meeting held from 8-10 February 2024 at NISER, Bhubaneshwar. The meeting included invited talks, poster presentations and PhD Clinic (one-on-one conversations between professors and PhD students).  had one on one talks with Prof. Anirban Chakraborty of IISc Banglore and Prof. Ayon Chakraborty of IIT Madras.
@@ -18,7 +24,7 @@ I am a Ph.D student under Prof. C V Jawahar and Prof. Vineeth N Balasubramanian.
 * Dua, Isha and John, Thrupthi Ann and Gupta, Riya and Jawahar, C. V. <b>"DGAZE: Driver Gaze Mapping on Road"</b>, IROS 2020 | [Project Page](http://cvit.iiit.ac.in/research/projects/cvit-projects/dgaze) | [Video](https://youtu.be/EoDkxqOhnoQ) | [Code](https://github.com/duaisha/DGAZE) | [PDF](http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/Projects/DGAZE/paper.pdf)
 
 ## Patents
-* C V Jawahar, Isha Dua, Thrupthi Ann John - <b>System and Method for Generating Gaze Mapping Dataset and Predicting Gaze Point on Environment<b>, Indian provisional patent application no. 202041052016
+* C V Jawahar, Isha Dua, Thrupthi Ann John - <b>System and Method for Generating Gaze Mapping Dataset and Predicting Gaze Point on Environment<b>, Indian patent no. 560066. Application No. 202041052016
 
 ## Datasets
 * DGAZE Dataset [Link](http://cvit.iiit.ac.in/research/projects/cvit-projects/dgaze)
