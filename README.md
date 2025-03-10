@@ -1,6 +1,6 @@
 
 
-I am a Ph.D student under Prof. C V Jawahar and Prof. Vineeth N Balasubramanian. I belong to the Computer Vision and Information Technology Lab (CVIT) in IIIT Hyderabad. My research interests are in computer vision, machine learning and pattern recognition. My thesis is on the interpretation and analysis of deep face representations. Find my CV <a href="/assets/doc/CV.pdf" download="download">here.</a>.
+I am a Ph.D student under Prof. C V Jawahar and Prof. Vineeth N Balasubramanian. I belong to the Computer Vision and Information Technology Lab (CVIT) in IIIT Hyderabad. My research interests are in computer vision, machine learning and pattern recognition. My thesis is on the interpretation and analysis of deep face representations. Find my CV <a href="/assets/doc/longcv.pdf" download="download">here.</a>
 
 # Recent Activities
 * Our patent titled <b>System and Method for Generating Gaze Mapping Dataset and Predicting Gaze Point on Environment </b> was granted by the Indian Patent Office!
@@ -9,7 +9,7 @@ I am a Ph.D student under Prof. C V Jawahar and Prof. Vineeth N Balasubramanian.
 * I successfully defended my thesis on 23 December 2024!
 <img src="/assets/img/thesisparty.jpg" width="500" />
 
-* I submitted my thesis on 19 July 2024! I am now looking for research positions. <a href="/assets/doc/CV.pdf" download="download">(CV)</a>
+* I submitted my thesis on 19 July 2024! I am now looking for research positions. <a href="/assets/doc/longcv.pdf" download="download">(CV)</a>
 
 * I attended the ACM Academic Research and Careers for Students (ARCS) meeting held from 8-10 February 2024 at NISER, Bhubaneshwar. The meeting included invited talks, poster presentations and PhD Clinic (one-on-one conversations between professors and PhD students).  had one on one talks with Prof. Anirban Chakraborty of IISc Banglore and Prof. Ayon Chakraborty of IIT Madras.
 <img src="/assets/img/ARCS2024.jpg" width="500" />
